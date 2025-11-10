@@ -43,3 +43,5 @@ RUNNING THE APPLICATION:
 1. Navigate to the project directory
 2. Run the Python application: python student_app.py
 3. Use the menu to perform operations (1: View all students; 2: Add a new student; 3: Update a student's email; 4: Delete a student; 5: Exit the application)
+
+Here is the link to the video demonstration: https://drive.google.com/file/d/1g4BkCf-j_9wOuYWMiHpWC7viIgKd4vAn/view?usp=sharing
