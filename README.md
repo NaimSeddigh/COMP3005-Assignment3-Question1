@@ -1,4 +1,4 @@
-# COMP3004-Assignment3-Question1
+# COMP3005-Assignment3-Question1
 OVERVIEW: 
 A python application that interacts with a PostgreSQL database to perform CRUD (CREATE, READ, UPDATE, DELETE) operations on student records. This application was developed for COMP 3005 Assignment 3 - Question 1
 
