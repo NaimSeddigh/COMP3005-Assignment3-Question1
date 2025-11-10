@@ -26,7 +26,7 @@ ON CONFLICT (email) DO NOTHING;
 pip install psycopg2-binary
 
 3. CONFIGURATION:
-   Update the database connection settings in student_app.py:
+   Update the database connection settings in student_app.py to match your personal information:   
    def get_db_connection():  
     try:  
         conn = psycopg2.connect(  
